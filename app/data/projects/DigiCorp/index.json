@@ -1,0 +1,36 @@
+{
+  "id": "DigiCorp",
+  "name": "DigiCorp",
+  "models": [
+    {
+      "id": "2022 Ponte",
+      "name": "Ponte",
+      "objectColorSource": "model"
+    },
+    {
+      "id": "Condominio 2022",
+      "name": "Condominio 2022",
+      "objectColorSource": "model"
+    },
+    {
+      "id": "DigiCorp 2023",
+      "name": "DigiCorp 2023",
+      "objectColorSource": "model"
+    }
+  ],
+  "viewerConfigs": {
+    "externalMetadata": true,
+    "backgroundColor": [
+      0.95,
+      0.95,
+      1.0
+    ]
+  },
+  "viewerContent": {
+    "modelsLoaded": [
+    ]
+  },
+  "viewerState": {
+    "tabOpen": "models"
+  }
+}
