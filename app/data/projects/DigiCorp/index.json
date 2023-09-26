@@ -1,21 +1,18 @@
 {
-  "id": "digiCorp",
+  "id": "DigiCorp",
   "name": "Digi Corp",
   "models": [
     {
       "id": "2022_Ponte",
-      "name": "2022_Ponte",
-      //"objectColorSource": "model"
+      "name": "2022_Ponte"
     },
     {
       "id": "Condominio_2022",
-      "name": "Condominio_2022",
-      //"objectColorSource": "model"
+      "name": "Condominio_2022"
     },
     {
       "id": "DigiCorp_2023",
-      "name": "DigiCorp_2023",
-      //"objectColorSource": "model"
+      "name": "DigiCorp_2023"
     }
   ],
   "viewerConfigs": {
