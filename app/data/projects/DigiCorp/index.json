@@ -5,17 +5,17 @@
     {
       "id": "2022_Ponte",
       "name": "2022_Ponte",
-      "objectColorSource": "model"
+      //"objectColorSource": "model"
     },
     {
       "id": "Condominio_2022",
       "name": "Condominio_2022",
-      "objectColorSource": "model"
+      //"objectColorSource": "model"
     },
     {
       "id": "DigiCorp_2023",
       "name": "DigiCorp_2023",
-      "objectColorSource": "model"
+      //"objectColorSource": "model"
     }
   ],
   "viewerConfigs": {
@@ -28,6 +28,7 @@
   },
   "viewerContent": {
     "modelsLoaded": [
+      "DigiCorp_2023"
     ]
   },
   "viewerState": {
