@@ -1,5 +1,5 @@
 {
-  "id": "Nome Progetto",
+  "id": "2022_Ponte",
   "projectId": "2sT2fqlaPEnhB_Gq8wXuVl",
   "author": "DOM_ENSER\\claudio.demattia",
   "createdAt": "2017-11-13T18:42:06",
@@ -8,7 +8,7 @@
   "metaObjects": [
     {
       "id": "2sT2fqlaPEnhB_Gq8wXuVl",
-      "name": "Nome Progetto",
+      "name": "2022_Ponte",
       "type": "IfcProject",
       "parent": null
     },

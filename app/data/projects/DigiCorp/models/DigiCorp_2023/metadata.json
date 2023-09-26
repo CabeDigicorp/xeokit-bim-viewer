@@ -1,5 +1,5 @@
 {
-  "id": "10",
+  "id": "DigiCorp_2023",
   "projectId": "0jINPV5jb1ngSkQYDRZ8wu",
   "author": "",
   "createdAt": "2022-07-29T15:50:47+01:00",
@@ -8,7 +8,7 @@
   "metaObjects": [
     {
       "id": "0jINPV5jb1ngSkQYDRZ8wu",
-      "name": "10",
+      "name": "DigiCorp_2023",
       "type": "IfcProject",
       "parent": null
     },
