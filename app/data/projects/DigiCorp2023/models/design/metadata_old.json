@@ -1,5 +1,5 @@
 {
-  "id": "10",
+  "id": "DigiCorp_2023",
   "projectId": "0jINPV5jb1ngSkQYDRZ8wu",
   "author": "",
   "createdAt": "2022-07-29T15:50:47+01:00",
@@ -8,4651 +8,3987 @@
   "metaObjects": [
     {
       "id": "0jINPV5jb1ngSkQYDRZ8wu",
-      "name": "10",
+      "name": "DigiCorp_2023",
       "type": "IfcProject",
-      "parent": null,
-      "material": null
+      "parent": null
     },
     {
       "id": "0a$hToBez1$RGZWgeUNVbE",
       "name": "Superficie:134565",
       "type": "IfcSite",
-      "parent": "0jINPV5jb1ngSkQYDRZ8wu",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYDRZ8wu"
     },
     {
       "id": "0jINPV5jb1ngSkQYDRZ8wv",
       "name": "palazzina Digi Corp",
       "type": "IfcBuilding",
-      "parent": "0a$hToBez1$RGZWgeUNVbE",
-      "material": null
+      "parent": "0a$hToBez1$RGZWgeUNVbE"
     },
     {
       "id": "0jINPV5jb1ngSkQYEaSeu$",
       "name": "0 - Piano campagna",
       "type": "IfcBuildingStorey",
-      "parent": "0jINPV5jb1ngSkQYDRZ8wv",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYDRZ8wv"
     },
     {
       "id": "3NXjtaugjAyB1Ucpg4pVWa",
       "name": "Scala:Cls - Alzata Max 15.5 cm - Pedata 29 cm 2:132241",
       "type": "IfcStair",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "3NXjtaugjAyB1Ucpw4pVWa",
       "name": "Scala:Cls - Alzata Max 15.5 cm - Pedata 29 cm 2:132241:1",
       "type": "IfcStairFlight",
-      "parent": "3NXjtaugjAyB1Ucpg4pVWa",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pVWa"
     },
     {
       "id": "2hvmgrFIj9mveKZ9_MftUz",
       "name": "Scala:Cls - Alzata Max 16 cm - Pedata 29 cm:134830",
       "type": "IfcStair",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "2hvmgrFIj9mveKZ9kMftUz",
       "name": "Scala:Cls - Alzata Max 16 cm - Pedata 29 cm:134830:1",
       "type": "IfcStairFlight",
-      "parent": "2hvmgrFIj9mveKZ9_MftUz",
-      "material": null
+      "parent": "2hvmgrFIj9mveKZ9_MftUz"
     },
     {
       "id": "1YNA3XuWT8hQPfA8kekaxX",
       "name": "Muro di base:Muratura esterna - 30 cm:136980",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#23552=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "27ZgW9WD5AbOUms1Ib3r_h",
       "name": "Pavimento:Cemento da 160 mm con soletta metallica da 50 mm:173234",
       "type": "IfcSlab",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#152737=IFCMATERIALLAYERSETUSAGE(#152736,.AXIS3.,.POSITIVE.,0.);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "0B8I5KqHL6eeC3R3yiXGjk",
       "name": "Muro di base:Muratura esterna - 30 cm:190767",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#155423=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "0B8I5KqHL6eeC3R3yiXGvY",
       "name": "Muro di base:Muratura esterna - 30 cm:191523",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#155482=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "0KbcAA2d99pwwzLt72pJVk",
       "name": "Pilastro - Circolare:Diametro 12 mm:353647",
       "type": "IfcColumn",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#172858=IFCMATERIALLIST((#16809,#16810));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "0KbcAA2d99pwwzLt72pJLj",
       "name": "Pilastro - Circolare:Diametro 12 mm:354284",
       "type": "IfcColumn",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#172917=IFCMATERIALLIST((#16809,#16810));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "0KbcAA2d99pwwzLt72pJh9",
       "name": "Pilastro - Circolare:Diametro 12 mm:354376",
       "type": "IfcColumn",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#172958=IFCMATERIALLIST((#16809,#16810));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "0KbcAA2d99pwwzLt72pJhp",
       "name": "Pilastro - Circolare:Diametro 12 mm:354418",
       "type": "IfcColumn",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#173013=IFCMATERIALLIST((#16809,#16810));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "0KbcAA2d99pwwzLt72pJkC",
       "name": "Pilastro - Circolare:Diametro 20 mm:354573",
       "type": "IfcColumn",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#173069=IFCMATERIALLIST((#16809,#16810));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "0KbcAA2d99pwwzLt72pJYc",
       "name": "Pilastro - Circolare:Diametro 30 mm:354855",
       "type": "IfcColumn",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#173140=IFCMATERIALLIST((#16809,#16810));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "0uJOs20SL1ng6FGfUiimKW",
       "name": "Muro di base:Muratura esterna - 30 cm:355307",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#173208=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "2alhWb44b5A9f5w5vs3lLu",
       "name": "Pilastro - Circolare:Diametro 12 mm:357669",
       "type": "IfcColumn",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#173743=IFCMATERIALLIST((#16809,#16810));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "1mQPQphjr0gguyDNOs$Cp5",
       "name": "Muro di base:Muratura esterna - 30 cm:372915",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#174522=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "0WzaQSzj128hVwCti_B2CR",
       "name": "Muro di base:Muratura portante - 30 cm:374582",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#174581=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "1hG4Frdd937Q7D$BWAMYLw",
       "name": "Muro di base:Muratura esterna - 30 cm:375125",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#174865=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "0j5st7lZDBDBYo1Ky58X3Y",
       "name": "Muro di base:Muratura esterna - 30 cm:375362",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#174938=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "3gq1euiGD8TP2IIgT5Cr4L",
       "name": "Muro di base:Muratura esterna - 30 cm:375676",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#175056=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "3gq1euiGD8TP2IIgT5CrRX",
       "name": "Muro di base:Muratura esterna - 30 cm:375944",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#175281=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "3K4rea35r5Y8ZQAByhA441",
       "name": "Muro di base:Muratura esterna - 30 cm:376372",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#175767=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "3K4rea35r5Y8ZQAByhA41P",
       "name": "Muro di base:Muratura portante - 30 cm:376684",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#176002=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "3pTtUwxbPEm9qJI0Pw_2_y",
       "name": "Muro di base:Muratura esterna - 30 cm:377314",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#176060=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "1AjWoaoC51o8GaYD2M6Gve",
       "name": "Porta Due Ante:180 x 210:378232",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#180921=IFCMATERIALLIST((#20740,#20745,#20745,#20745,#180908,#180908,#141102,#141102,#20745,#20745,#141102,#141102,#180908,#3715));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "2_kzztkGzCJeODSdgNKlP3",
       "name": "Recinzione:Recinzione cantiere:259428",
       "type": "IfcRailing",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#193331=IFCMATERIALLIST((#16809,#16809,#16809,#16809,#16809,#16809,#16809,#193318));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "2_kzztkGzCJeODSdgNKlP2",
       "name": "Recinzione:Recinzione cantiere:259429",
       "type": "IfcRailing",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#207522=IFCMATERIALLIST((#16809,#16809,#16809,#16809,#16809,#16809,#16809,#193318));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "2_kzztkGzCJeODSdgNKlP1",
       "name": "Recinzione:Recinzione cantiere:259430",
       "type": "IfcRailing",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#246910=IFCMATERIALLIST((#16809,#16809,#16809,#16809,#16809,#16809,#16809,#16809,#16809,#16809,#16809,#16809,#16809,#16809,#16809,#16809,#16809,#193318));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "2_kzztkGzCJeODSdgNKlP0",
       "name": "Recinzione:Recinzione cantiere:259431",
       "type": "IfcRailing",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#259837=IFCMATERIALLIST((#16809,#16809,#16809,#16809,#16809,#16809,#16809,#193318));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "2_kzztkGzCJeODSdgNKlPF",
       "name": "Recinzione:Recinzione cantiere:259432",
       "type": "IfcRailing",
-      "parent": "0jINPV5jb1ngSkQYEaSeu$",
-      "material": "#267347=IFCMATERIALLIST((#16809,#16809,#16809,#16809,#16809,#193318));"
+      "parent": "0jINPV5jb1ngSkQYEaSeu$"
     },
     {
       "id": "0jINPV5jb1ngSkQYEaStBj",
       "name": "1 - Piano Terra",
       "type": "IfcBuildingStorey",
-      "parent": "0jINPV5jb1ngSkQYDRZ8wv",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYDRZ8wv"
     },
     {
       "id": "08$KbxtJb3h9Wjs26NzgyJ",
       "name": "Muro di base:Muratura portante - 30 cm:77812",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#1999=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "08$KbxtJb3h9Wjs26Nzh69",
       "name": "Muro di base:Muratura portante - 30 cm:78190",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#2110=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "08$KbxtJb3h9Wjs26Nzh5I",
       "name": "Muro di base:Muratura portante - 30 cm:78261",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#2169=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "08$KbxtJb3h9Wjs26Nzh9M",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:78513",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC826k",
       "name": "Pannello sistema:Vetro Blu:83669",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCpx",
       "name": "Pannello sistema:Vetro Blu:104909",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCpv",
       "name": "Pannello sistema:Vetro Blu:104911",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCpd",
       "name": "Pannello sistema:Vetro Blu:104913",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCpb",
       "name": "Pannello sistema:Vetro Blu:104915",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCul",
       "name": "Pannello sistema:Vetro Blu:105241",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCui",
       "name": "Pannello sistema:Vetro Blu:105242",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCuj",
       "name": "Pannello sistema:Vetro Blu:105243",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCug",
       "name": "Pannello sistema:Vetro Blu:105244",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCuh",
       "name": "Pannello sistema:Vetro Blu:105245",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCpZ",
       "name": "Pannello sistema:Vetro Blu:104917",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCpW",
       "name": "Pannello sistema:Vetro Blu:104918",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCpX",
       "name": "Pannello sistema:Vetro Blu:104919",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCpk",
       "name": "Pannello sistema:Vetro Blu:104920",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCpl",
       "name": "Pannello sistema:Vetro Blu:104921",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC$H",
       "name": "Pannello sistema:Vetro Blu:105191",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC$U",
       "name": "Pannello sistema:Vetro Blu:105192",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC$V",
       "name": "Pannello sistema:Vetro Blu:105193",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC$S",
       "name": "Pannello sistema:Vetro Blu:105194",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC$T",
       "name": "Pannello sistema:Vetro Blu:105195",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9W",
       "name": "Pannello sistema:Vetro Blu:110273",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9Z",
       "name": "Pannello sistema:Vetro Blu:110274",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9Y",
       "name": "Pannello sistema:Vetro Blu:110275",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9b",
       "name": "Pannello sistema:Vetro Blu:110276",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9a",
       "name": "Pannello sistema:Vetro Blu:110277",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLo_",
       "name": "Pannello sistema:Vetro Blu:110623",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLo1",
       "name": "Pannello sistema:Vetro Blu:110624",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLo0",
       "name": "Pannello sistema:Vetro Blu:110625",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLo3",
       "name": "Pannello sistema:Vetro Blu:110626",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLo2",
       "name": "Pannello sistema:Vetro Blu:110627",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9c",
       "name": "Pannello sistema:Vetro Blu:110279",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9f",
       "name": "Pannello sistema:Vetro Blu:110280",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9e",
       "name": "Pannello sistema:Vetro Blu:110281",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9h",
       "name": "Pannello sistema:Vetro Blu:110282",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9g",
       "name": "Pannello sistema:Vetro Blu:110283",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLpw",
       "name": "Pannello sistema:Vetro Blu:110683",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLpz",
       "name": "Pannello sistema:Vetro Blu:110684",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLpy",
       "name": "Pannello sistema:Vetro Blu:110685",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLp$",
       "name": "Pannello sistema:Vetro Blu:110686",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLp_",
       "name": "Pannello sistema:Vetro Blu:110687",
       "type": "IfcPlate",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwf",
       "name": "Montante rettangolare:Montante rettangolare:105375",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwM",
       "name": "Montante rettangolare:Montante rettangolare:105376",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwN",
       "name": "Montante rettangolare:Montante rettangolare:105377",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwK",
       "name": "Montante rettangolare:Montante rettangolare:105378",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwL",
       "name": "Montante rettangolare:Montante rettangolare:105379",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwI",
       "name": "Montante rettangolare:Montante rettangolare:105380",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwJ",
       "name": "Montante rettangolare:Montante rettangolare:105381",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwG",
       "name": "Montante rettangolare:Montante rettangolare:105382",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwH",
       "name": "Montante rettangolare:Montante rettangolare:105383",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwU",
       "name": "Montante rettangolare:Montante rettangolare:105384",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwV",
       "name": "Montante rettangolare:Montante rettangolare:105385",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwS",
       "name": "Montante rettangolare:Montante rettangolare:105386",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwT",
       "name": "Montante rettangolare:Montante rettangolare:105387",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwQ",
       "name": "Montante rettangolare:Montante rettangolare:105388",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwR",
       "name": "Montante rettangolare:Montante rettangolare:105389",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwO",
       "name": "Montante rettangolare:Montante rettangolare:105390",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwP",
       "name": "Montante rettangolare:Montante rettangolare:105391",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCw6",
       "name": "Montante rettangolare:Montante rettangolare:105392",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCw7",
       "name": "Montante rettangolare:Montante rettangolare:105393",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCw4",
       "name": "Montante rettangolare:Montante rettangolare:105394",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCw5",
       "name": "Montante rettangolare:Montante rettangolare:105395",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCw2",
       "name": "Montante rettangolare:Montante rettangolare:105396",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCw3",
       "name": "Montante rettangolare:Montante rettangolare:105397",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCw0",
       "name": "Montante rettangolare:Montante rettangolare:105398",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCw1",
       "name": "Montante rettangolare:Montante rettangolare:105399",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwE",
       "name": "Montante rettangolare:Montante rettangolare:105400",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwF",
       "name": "Montante rettangolare:Montante rettangolare:105401",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwC",
       "name": "Montante rettangolare:Montante rettangolare:105402",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwD",
       "name": "Montante rettangolare:Montante rettangolare:105403",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwA",
       "name": "Montante rettangolare:Montante rettangolare:105404",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwB",
       "name": "Montante rettangolare:Montante rettangolare:105405",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCw8",
       "name": "Montante rettangolare:Montante rettangolare:105406",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCw9",
       "name": "Montante rettangolare:Montante rettangolare:105407",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxs",
       "name": "Montante rettangolare:Montante rettangolare:105408",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxt",
       "name": "Montante rettangolare:Montante rettangolare:105409",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxq",
       "name": "Montante rettangolare:Montante rettangolare:105410",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxr",
       "name": "Montante rettangolare:Montante rettangolare:105411",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxo",
       "name": "Montante rettangolare:Montante rettangolare:105412",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxp",
       "name": "Montante rettangolare:Montante rettangolare:105413",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxm",
       "name": "Montante rettangolare:Montante rettangolare:105414",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxn",
       "name": "Montante rettangolare:Montante rettangolare:105415",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCx_",
       "name": "Montante rettangolare:Montante rettangolare:105416",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCx$",
       "name": "Montante rettangolare:Montante rettangolare:105417",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxy",
       "name": "Montante rettangolare:Montante rettangolare:105418",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxz",
       "name": "Montante rettangolare:Montante rettangolare:105419",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxw",
       "name": "Montante rettangolare:Montante rettangolare:105420",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxx",
       "name": "Montante rettangolare:Montante rettangolare:105421",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxu",
       "name": "Montante rettangolare:Montante rettangolare:105422",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCxv",
       "name": "Montante rettangolare:Montante rettangolare:105423",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9x",
       "name": "Montante rettangolare:Montante rettangolare:110298",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9w",
       "name": "Montante rettangolare:Montante rettangolare:110299",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9z",
       "name": "Montante rettangolare:Montante rettangolare:110300",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9y",
       "name": "Montante rettangolare:Montante rettangolare:110301",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9$",
       "name": "Montante rettangolare:Montante rettangolare:110302",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK9_",
       "name": "Montante rettangolare:Montante rettangolare:110303",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK91",
       "name": "Montante rettangolare:Montante rettangolare:110304",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK90",
       "name": "Montante rettangolare:Montante rettangolare:110305",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK93",
       "name": "Montante rettangolare:Montante rettangolare:110306",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK92",
       "name": "Montante rettangolare:Montante rettangolare:110307",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK95",
       "name": "Montante rettangolare:Montante rettangolare:110308",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnK94",
       "name": "Montante rettangolare:Montante rettangolare:110309",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLoF",
       "name": "Montante rettangolare:Montante rettangolare:110638",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLoE",
       "name": "Montante rettangolare:Montante rettangolare:110639",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLoH",
       "name": "Montante rettangolare:Montante rettangolare:110640",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLoG",
       "name": "Montante rettangolare:Montante rettangolare:110641",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLoJ",
       "name": "Montante rettangolare:Montante rettangolare:110642",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLoI",
       "name": "Montante rettangolare:Montante rettangolare:110643",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLpD",
       "name": "Montante rettangolare:Montante rettangolare:110700",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLpC",
       "name": "Montante rettangolare:Montante rettangolare:110701",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLpF",
       "name": "Montante rettangolare:Montante rettangolare:110702",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLpE",
       "name": "Montante rettangolare:Montante rettangolare:110703",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLpH",
       "name": "Montante rettangolare:Montante rettangolare:110704",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLpG",
       "name": "Montante rettangolare:Montante rettangolare:110705",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmf",
       "name": "Montante rettangolare:Montante rettangolare:110728",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLme",
       "name": "Montante rettangolare:Montante rettangolare:110729",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmh",
       "name": "Montante rettangolare:Montante rettangolare:110730",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmg",
       "name": "Montante rettangolare:Montante rettangolare:110731",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmj",
       "name": "Montante rettangolare:Montante rettangolare:110732",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmq",
       "name": "Montante rettangolare:Montante rettangolare:110741",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmt",
       "name": "Montante rettangolare:Montante rettangolare:110742",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLms",
       "name": "Montante rettangolare:Montante rettangolare:110743",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmv",
       "name": "Montante rettangolare:Montante rettangolare:110744",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmu",
       "name": "Montante rettangolare:Montante rettangolare:110745",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLm3",
       "name": "Montante rettangolare:Montante rettangolare:110754",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLm2",
       "name": "Montante rettangolare:Montante rettangolare:110755",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLm5",
       "name": "Montante rettangolare:Montante rettangolare:110756",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLm4",
       "name": "Montante rettangolare:Montante rettangolare:110757",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLm7",
       "name": "Montante rettangolare:Montante rettangolare:110758",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmB",
       "name": "Montante rettangolare:Montante rettangolare:110762",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmA",
       "name": "Montante rettangolare:Montante rettangolare:110763",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmD",
       "name": "Montante rettangolare:Montante rettangolare:110764",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmC",
       "name": "Montante rettangolare:Montante rettangolare:110765",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "3qgQXC72DAxgrZeIgRnLmF",
       "name": "Montante rettangolare:Montante rettangolare:110766",
       "type": "IfcMember",
-      "parent": "08$KbxtJb3h9Wjs26Nzh9M",
-      "material": null
+      "parent": "08$KbxtJb3h9Wjs26Nzh9M"
     },
     {
       "id": "08$KbxtJb3h9Wjs26NzhFj",
       "name": "Muro di base:Muratura esterna - 30 cm:78602",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#8163=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "1xPBCfjBX60OohjUm2hs5q",
       "name": "Muro di base:Muratura portante - 30 cm:79112",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#8243=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "1xPBCfjBX60OohjUm2hs9u",
       "name": "Muro di base:Muratura portante - 30 cm:79364",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#8302=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "1xPBCfjBX60OohjUm2hsyF",
       "name": "Muro di base:Tramezza - 10 cm:80755",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#8374=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "1xPBCfjBX60OohjUm2hs$3",
       "name": "Muro di base:Tramezza - 10 cm:80831",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#8524=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "1xPBCfjBX60OohjUm2hsXV",
       "name": "Muro di base:Tramezza - 10 cm:80931",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#8647=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "1xPBCfjBX60OohjUm2hsWS",
       "name": "Muro di base:Tramezza - 10 cm:80992",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#8709=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "1xPBCfjBX60OohjUm2hsYD",
       "name": "Muro di base:Tramezza - 10 cm:81137",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#8768=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "1xPBCfjBX60OohjUm2hsaX",
       "name": "Muro di base:Tramezza - 10 cm:81245",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#8827=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "1xPBCfjBX60OohjUm2hscd",
       "name": "Muro di base:Tramezza - 10 cm:81371",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#8892=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "1xPBCfjBX60OohjUm2hsiZ",
       "name": "Muro di base:Tramezza - 10 cm:81759",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#8955=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "1xPBCfjBX60OohjUm2hskF",
       "name": "Muro di base:Tramezza - 15 cm:81907",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#9018=IFCMATERIALLAYERSETUSAGE(#9017,.AXIS2.,.NEGATIVE.,0.07499999999999998);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Rc",
       "name": "Porta - 1 Anta:90x210 cm:82333",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#9126=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82QU",
       "name": "Porta - 1 Anta:90x210 cm:82405",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#9218=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82L8",
       "name": "Porta - 1 Anta:80x210 cm:82483",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#9289=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82LC",
       "name": "Porta - 1 Anta:80x210 cm:82487",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#9357=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Ns",
       "name": "Porta - 1 Anta:90x210 cm:82573",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#9397=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC8200",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:83835",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC8207",
       "name": "Pannello sistema:Vetro Blu:83836",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC8200",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC8200"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC823x",
       "name": "Pannello sistema:Vetro Blu:83840",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC8200",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC8200"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC823v",
       "name": "Pannello sistema:Vetro Blu:83842",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC8200",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC8200"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC823$",
       "name": "Pannello sistema:Vetro Blu:83844",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC8200",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC8200"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC823_",
       "name": "Pannello sistema:Vetro Blu:83845",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC8200",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC8200"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC823z",
       "name": "Pannello sistema:Vetro Blu:83846",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC8200",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC8200"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82z1",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:84026",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82z0",
       "name": "Pannello sistema:Vetro Blu:84027",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82z1",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82z1"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82z5",
       "name": "Pannello sistema:Vetro Blu:84030",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82z1",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82z1"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82u6",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:84349",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82u5",
       "name": "Pannello sistema:Vetro Blu:84350",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82u6",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82u6"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82xw",
       "name": "Pannello sistema:Vetro Blu:84353",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82u6",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82u6"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82xu",
       "name": "Pannello sistema:Vetro Blu:84355",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82u6",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82u6"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82x_",
       "name": "Pannello sistema:Vetro Blu:84357",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82u6",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82u6"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82xz",
       "name": "Pannello sistema:Vetro Blu:84358",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82u6",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82u6"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82xy",
       "name": "Pannello sistema:Vetro Blu:84359",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82u6",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82u6"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82qx",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:84544",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82qw",
       "name": "Pannello sistema:Vetro Blu:84545",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82qx",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82qx"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82q$",
       "name": "Pannello sistema:Vetro Blu:84548",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82qx",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82qx"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82sM",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:84717",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82sL",
       "name": "Pannello sistema:Vetro Blu:84718",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82sM",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82sM"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82s9",
       "name": "Pannello sistema:Vetro Blu:84722",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82sM",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82sM"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82sF",
       "name": "Pannello sistema:Vetro Blu:84724",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82sM",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82sM"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82sD",
       "name": "Pannello sistema:Vetro Blu:84726",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82sM",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82sM"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82sC",
       "name": "Pannello sistema:Vetro Blu:84727",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82sM",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82sM"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82s3",
       "name": "Pannello sistema:Vetro Blu:84728",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82sM",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82sM"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82n8",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:84787",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82nF",
       "name": "Pannello sistema:Vetro Blu:84788",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82n8",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82n8"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82nC",
       "name": "Pannello sistema:Vetro Blu:84791",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82n8",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82n8"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82pr",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:84878",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82pq",
       "name": "Pannello sistema:Vetro Blu:84879",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82pr",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82pr"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82pf",
       "name": "Pannello sistema:Vetro Blu:84882",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82pr",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82pr"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82pl",
       "name": "Pannello sistema:Vetro Blu:84884",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82pr",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82pr"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82pj",
       "name": "Pannello sistema:Vetro Blu:84886",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82pr",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82pr"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82pi",
       "name": "Pannello sistema:Vetro Blu:84887",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82pr",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82pr"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82pZ",
       "name": "Pannello sistema:Vetro Blu:84888",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82pr",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82pr"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82p4",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:84927",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82ox",
       "name": "Pannello sistema:Vetro Blu:84928",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82p4",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82p4"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82ou",
       "name": "Pannello sistema:Vetro Blu:84931",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82p4",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82p4"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82jc",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:85021",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82jb",
       "name": "Pannello sistema:Vetro Blu:85022",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82jc",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82jc"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82jO",
       "name": "Pannello sistema:Vetro Blu:85027",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82jc",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82jc"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Z7",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:85948",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Z6",
       "name": "Pannello sistema:Vetro Blu:85949",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Yw",
       "name": "Pannello sistema:Vetro Blu:85953",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Yu",
       "name": "Pannello sistema:Vetro Blu:85955",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Y_",
       "name": "Pannello sistema:Vetro Blu:85957",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Yy",
       "name": "Pannello sistema:Vetro Blu:85959",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Yo",
       "name": "Pannello sistema:Vetro Blu:85961",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Ym",
       "name": "Pannello sistema:Vetro Blu:85963",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Ys",
       "name": "Pannello sistema:Vetro Blu:85965",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Yq",
       "name": "Pannello sistema:Vetro Blu:85967",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC_i",
       "name": "Pannello sistema:Vetro Blu:105114",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC_j",
       "name": "Pannello sistema:Vetro Blu:105115",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC_g",
       "name": "Pannello sistema:Vetro Blu:105116",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC_h",
       "name": "Pannello sistema:Vetro Blu:105117",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC_e",
       "name": "Pannello sistema:Vetro Blu:105118",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC_f",
       "name": "Pannello sistema:Vetro Blu:105119",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC_M",
       "name": "Pannello sistema:Vetro Blu:105120",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC_N",
       "name": "Pannello sistema:Vetro Blu:105121",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KC_K",
       "name": "Pannello sistema:Vetro Blu:105122",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Yg",
       "name": "Pannello sistema:Vetro Blu:85969",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Yf",
       "name": "Pannello sistema:Vetro Blu:85970",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Ye",
       "name": "Pannello sistema:Vetro Blu:85971",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Yl",
       "name": "Pannello sistema:Vetro Blu:85972",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Yk",
       "name": "Pannello sistema:Vetro Blu:85973",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Yj",
       "name": "Pannello sistema:Vetro Blu:85974",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82Yi",
       "name": "Pannello sistema:Vetro Blu:85975",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82YZ",
       "name": "Pannello sistema:Vetro Blu:85976",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC82YY",
       "name": "Pannello sistema:Vetro Blu:85977",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCzO",
       "name": "Pannello sistema:Vetro Blu:105070",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCzP",
       "name": "Pannello sistema:Vetro Blu:105071",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCz6",
       "name": "Pannello sistema:Vetro Blu:105072",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCz7",
       "name": "Pannello sistema:Vetro Blu:105073",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCz4",
       "name": "Pannello sistema:Vetro Blu:105074",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCz5",
       "name": "Pannello sistema:Vetro Blu:105075",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCz2",
       "name": "Pannello sistema:Vetro Blu:105076",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCz3",
       "name": "Pannello sistema:Vetro Blu:105077",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCz0",
       "name": "Pannello sistema:Vetro Blu:105078",
       "type": "IfcPlate",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCu0",
       "name": "Montante rettangolare:Montante rettangolare:105270",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCu1",
       "name": "Montante rettangolare:Montante rettangolare:105271",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCuE",
       "name": "Montante rettangolare:Montante rettangolare:105272",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCuF",
       "name": "Montante rettangolare:Montante rettangolare:105273",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCuC",
       "name": "Montante rettangolare:Montante rettangolare:105274",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCuD",
       "name": "Montante rettangolare:Montante rettangolare:105275",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCuA",
       "name": "Montante rettangolare:Montante rettangolare:105276",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCuB",
       "name": "Montante rettangolare:Montante rettangolare:105277",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCu8",
       "name": "Montante rettangolare:Montante rettangolare:105278",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCu9",
       "name": "Montante rettangolare:Montante rettangolare:105279",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvs",
       "name": "Montante rettangolare:Montante rettangolare:105280",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvt",
       "name": "Montante rettangolare:Montante rettangolare:105281",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvq",
       "name": "Montante rettangolare:Montante rettangolare:105282",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvr",
       "name": "Montante rettangolare:Montante rettangolare:105283",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvo",
       "name": "Montante rettangolare:Montante rettangolare:105284",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvp",
       "name": "Montante rettangolare:Montante rettangolare:105285",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvm",
       "name": "Montante rettangolare:Montante rettangolare:105286",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvn",
       "name": "Montante rettangolare:Montante rettangolare:105287",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCv_",
       "name": "Montante rettangolare:Montante rettangolare:105288",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCv$",
       "name": "Montante rettangolare:Montante rettangolare:105289",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvy",
       "name": "Montante rettangolare:Montante rettangolare:105290",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvz",
       "name": "Montante rettangolare:Montante rettangolare:105291",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvw",
       "name": "Montante rettangolare:Montante rettangolare:105292",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvx",
       "name": "Montante rettangolare:Montante rettangolare:105293",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvu",
       "name": "Montante rettangolare:Montante rettangolare:105294",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvv",
       "name": "Montante rettangolare:Montante rettangolare:105295",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvc",
       "name": "Montante rettangolare:Montante rettangolare:105296",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvd",
       "name": "Montante rettangolare:Montante rettangolare:105297",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCva",
       "name": "Montante rettangolare:Montante rettangolare:105298",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvb",
       "name": "Montante rettangolare:Montante rettangolare:105299",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvY",
       "name": "Montante rettangolare:Montante rettangolare:105300",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvZ",
       "name": "Montante rettangolare:Montante rettangolare:105301",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvW",
       "name": "Montante rettangolare:Montante rettangolare:105302",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvX",
       "name": "Montante rettangolare:Montante rettangolare:105303",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvk",
       "name": "Montante rettangolare:Montante rettangolare:105304",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvl",
       "name": "Montante rettangolare:Montante rettangolare:105305",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvi",
       "name": "Montante rettangolare:Montante rettangolare:105306",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvj",
       "name": "Montante rettangolare:Montante rettangolare:105307",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvg",
       "name": "Montante rettangolare:Montante rettangolare:105308",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvh",
       "name": "Montante rettangolare:Montante rettangolare:105309",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCve",
       "name": "Montante rettangolare:Montante rettangolare:105310",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvf",
       "name": "Montante rettangolare:Montante rettangolare:105311",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvM",
       "name": "Montante rettangolare:Montante rettangolare:105312",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvN",
       "name": "Montante rettangolare:Montante rettangolare:105313",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvK",
       "name": "Montante rettangolare:Montante rettangolare:105314",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvL",
       "name": "Montante rettangolare:Montante rettangolare:105315",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvI",
       "name": "Montante rettangolare:Montante rettangolare:105316",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvJ",
       "name": "Montante rettangolare:Montante rettangolare:105317",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvG",
       "name": "Montante rettangolare:Montante rettangolare:105318",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvH",
       "name": "Montante rettangolare:Montante rettangolare:105319",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvU",
       "name": "Montante rettangolare:Montante rettangolare:105320",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvV",
       "name": "Montante rettangolare:Montante rettangolare:105321",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvS",
       "name": "Montante rettangolare:Montante rettangolare:105322",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvT",
       "name": "Montante rettangolare:Montante rettangolare:105323",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvQ",
       "name": "Montante rettangolare:Montante rettangolare:105324",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvR",
       "name": "Montante rettangolare:Montante rettangolare:105325",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvO",
       "name": "Montante rettangolare:Montante rettangolare:105326",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvP",
       "name": "Montante rettangolare:Montante rettangolare:105327",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCv6",
       "name": "Montante rettangolare:Montante rettangolare:105328",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCv7",
       "name": "Montante rettangolare:Montante rettangolare:105329",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCv4",
       "name": "Montante rettangolare:Montante rettangolare:105330",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCv5",
       "name": "Montante rettangolare:Montante rettangolare:105331",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCv2",
       "name": "Montante rettangolare:Montante rettangolare:105332",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCv3",
       "name": "Montante rettangolare:Montante rettangolare:105333",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCv0",
       "name": "Montante rettangolare:Montante rettangolare:105334",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCv1",
       "name": "Montante rettangolare:Montante rettangolare:105335",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvE",
       "name": "Montante rettangolare:Montante rettangolare:105336",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvF",
       "name": "Montante rettangolare:Montante rettangolare:105337",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvC",
       "name": "Montante rettangolare:Montante rettangolare:105338",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvD",
       "name": "Montante rettangolare:Montante rettangolare:105339",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvA",
       "name": "Montante rettangolare:Montante rettangolare:105340",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCvB",
       "name": "Montante rettangolare:Montante rettangolare:105341",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCv8",
       "name": "Montante rettangolare:Montante rettangolare:105342",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCv9",
       "name": "Montante rettangolare:Montante rettangolare:105343",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCws",
       "name": "Montante rettangolare:Montante rettangolare:105344",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwt",
       "name": "Montante rettangolare:Montante rettangolare:105345",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwq",
       "name": "Montante rettangolare:Montante rettangolare:105346",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwr",
       "name": "Montante rettangolare:Montante rettangolare:105347",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwo",
       "name": "Montante rettangolare:Montante rettangolare:105348",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwp",
       "name": "Montante rettangolare:Montante rettangolare:105349",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwm",
       "name": "Montante rettangolare:Montante rettangolare:105350",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwn",
       "name": "Montante rettangolare:Montante rettangolare:105351",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCw_",
       "name": "Montante rettangolare:Montante rettangolare:105352",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCw$",
       "name": "Montante rettangolare:Montante rettangolare:105353",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCwy",
       "name": "Montante rettangolare:Montante rettangolare:105354",
       "type": "IfcMember",
-      "parent": "0aCs0I5dT6JhHFzLlC82Z7",
-      "material": null
+      "parent": "0aCs0I5dT6JhHFzLlC82Z7"
     },
     {
       "id": "0aCs0I5dT6JhHFzLlC839k",
       "name": "Pilastro - Circolare:Diametro 45 mm:87317",
       "type": "IfcColumn",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#16830=IFCMATERIALLIST((#16809,#16810));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "2G4N1xRYv738YjSkG9KCAq",
       "name": "Scala:Cls - Alzata Max 16 cm - Pedata 29 cm:104322",
       "type": "IfcStair",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "2G4N1xRYv738YjSk09KCAq",
       "name": "Scala:Cls - Alzata Max 16 cm - Pedata 29 cm:104322:1",
       "type": "IfcStairFlight",
-      "parent": "2G4N1xRYv738YjSkG9KCAq",
-      "material": null
+      "parent": "2G4N1xRYv738YjSkG9KCAq"
     },
     {
       "id": "2G4N1xRYv738YjSk49KCAq",
       "name": "Scala:Cls - Alzata Max 16 cm - Pedata 29 cm:104322:2",
       "type": "IfcStairFlight",
-      "parent": "2G4N1xRYv738YjSkG9KCAq",
-      "material": null
+      "parent": "2G4N1xRYv738YjSkG9KCAq"
     },
     {
       "id": "2G4N1xRYv738YjSYq9KCAq",
       "name": "Scala:Cls - Alzata Max 16 cm - Pedata 29 cm:104322:1",
       "type": "IfcSlab",
-      "parent": "2G4N1xRYv738YjSkG9KCAq",
-      "material": null
+      "parent": "2G4N1xRYv738YjSkG9KCAq"
     },
     {
       "id": "0J6aNrtYL3kR_yEoNmbhDB",
       "name": "Pavimento:Latero Cementizio - 30 cm:107437",
       "type": "IfcSlab",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#18456=IFCMATERIALLAYERSETUSAGE(#18455,.AXIS3.,.POSITIVE.,0.);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "34PM0e$xX6IfwokJ6qxQQ4",
       "name": "Muro di base:Tramezza - 10 cm:172659",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#149086=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "34PM0e$xX6IfwokJ6qxQQ3",
       "name": "Muro di base:Tramezza - 10 cm:172660",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#149145=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "34PM0e$xX6IfwokJ6qxQQ2",
       "name": "Porta - 1 Anta:60x210 cm:172661",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#149186=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "34PM0e$xX6IfwokJ6qxQQ1",
       "name": "Porta - 1 Anta:60x210 cm:172662",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#149225=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "27ZgW9WD5AbOUms1Ib3rr3",
       "name": "Pavimento:Cemento da 160 mm con soletta metallica da 50 mm:173658",
       "type": "IfcSlab",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#152819=IFCMATERIALLAYERSETUSAGE(#152736,.AXIS3.,.POSITIVE.,0.);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3QTnlkY0P3uw2dAvv9lCU1",
       "name": "Muro di base:Muratura esterna - 30 cm:179666",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#153573=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "2DALzbWu90NPD4uMZRzQoy",
       "name": "Muro di base:Muratura esterna - 30 cm:183931",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#154125=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNKi",
       "name": "Ponteggio:2500 x 2250 x 2500mm:186833",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#154505=IFCMATERIALLIST((#154487,#154487,#154487,#154487,#154487,#154487,#154487,#154487,#154487,#154487,#154492,#154487,#154487,#154487,#154487,#154487,#154487,#154487,#154487));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNVV",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187170",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#154569=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNTl",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187282",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#154609=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnN2H",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187500",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#154649=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnN1f",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187540",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#154689=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "2iD2J9h1n0sAi1ZsqSG9ok",
       "name": "Muro di base:Muratura esterna - 30 cm:266382",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#155541=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRt",
       "name": "Maniglia Esterna:Maniglia Pomello:290839",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#158840=IFCMATERIALLIST((#20745,#20745,#20745));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRu",
       "name": "Maniglia Esterna:Maniglia Pomello:290840",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRw",
       "name": "Maniglia Esterna:Maniglia Pomello:290842",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#161463=IFCMATERIALLIST((#20745,#20745,#20745));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRz",
       "name": "Maniglia Esterna:Maniglia Pomello:290845",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDR$",
       "name": "Maniglia Esterna:Maniglia Pomello:290847",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRG",
       "name": "Maniglia Esterna:Maniglia Pomello:290864",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRH",
       "name": "Maniglia Esterna:Maniglia Pomello:290865",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0uJOs20SL1ng6FGfUiimBU",
       "name": "Muro di base:Muratura esterna - 30 cm:355349",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#173266=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "33H4f6ccDF9xyEJxb1PHWX",
       "name": "Muro di base:Muratura portante - 30 cm:369944",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#173854=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0JBBQB4nT3hgBIbVpTukIB",
       "name": "Muro di base:Muratura portante - 30 cm:370498",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#173938=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3YfjmP6zLElv$bQrxUiqlL",
       "name": "Muro di base:Muratura esterna - 30 cm:372472",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#174244=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3YfjmP6zLElv$bQrxUiqlK",
       "name": "Cassonetto e Davanzale (3):L 1300 H 1300:372473",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#174285=IFCMATERIALLIST((#166779,#166784,#2222,#3715,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3YfjmP6zLElv$bQrxUiqlN",
       "name": "Cassonetto e Davanzale (3):L 1300 H 1300:372474",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#174324=IFCMATERIALLIST((#166779,#166784,#2222,#3715,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3M5SkDAjrAEOvL9NSVeXMc",
       "name": "Finestra Una Anta:60 x 120:372755",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#174362=IFCMATERIALLIST((#20740,#20745,#141102,#20750,#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3M5SkDAjrAEOvL9NSVeXMX",
       "name": "Finestra Una Anta:60 x 120:372756",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#174404=IFCMATERIALLIST((#20740,#20745,#141102,#20750,#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3M5SkDAjrAEOvL9NSVeXMW",
       "name": "Muro di base:Muratura esterna - 30 cm:372757",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#174463=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "1hG4Frdd937Q7D$BWAMYH_",
       "name": "Muro di base:Muratura esterna - 30 cm:374865",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#174715=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "0j5st7lZDBDBYo1Ky58X3e",
       "name": "Muro di base:Muratura esterna - 30 cm:375368",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#174997=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3gq1euiGD8TP2IIgT5CrRy",
       "name": "Muro di base:Muratura esterna - 30 cm:375957",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#175407=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3gq1euiGD8TP2IIgT5CrR$",
       "name": "Cassonetto e Davanzale (3):L 2300 H 1000:375958",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#175448=IFCMATERIALLIST((#166779,#166784,#2222,#169664,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3gq1euiGD8TP2IIgT5CrRn",
       "name": "Cassonetto e Davanzale (3):L 2300 H 1000:375960",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#175486=IFCMATERIALLIST((#166779,#166784,#2222,#169664,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3K4rea35r5Y8ZQAByhA4AQ",
       "name": "Muro di base:Muratura esterna - 30 cm:376239",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#175542=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3K4rea35r5Y8ZQAByhA41G",
       "name": "Porta - 1 Anta:80x210 cm:376677",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#175886=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3K4rea35r5Y8ZQAByhA41S",
       "name": "Maniglia Esterna:Maniglia Pomello:376681",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "32McHrb6T8YwAOZR2_TF5E",
       "name": "Muro di base:Muratura esterna - 30 cm:378886",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": "#180982=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3u833xsUX3TAnyHBcm_9wd",
       "name": "11-12-13",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlTm",
       "name": "Maniglia a L:Maniglia a L:299707",
       "type": "IfcBuildingElementProxy",
-      "parent": "3u833xsUX3TAnyHBcm_9wd",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "3u833xsUX3TAnyHBcm_9wd"
     },
     {
       "id": "3u833xsUX3TAnyHBcm_9wi",
       "name": "14",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlSB",
       "name": "Maniglia a L:Maniglia a L:299712",
       "type": "IfcBuildingElementProxy",
-      "parent": "3u833xsUX3TAnyHBcm_9wi",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "3u833xsUX3TAnyHBcm_9wi"
     },
     {
       "id": "3u833xsUX3TAnyHBcm_9wn",
       "name": "15",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlTs",
       "name": "Maniglia a L:Maniglia a L:299709",
       "type": "IfcBuildingElementProxy",
-      "parent": "3u833xsUX3TAnyHBcm_9wn",
-      "material": "#164270=IFCMATERIALLIST((#20745,#20745));"
+      "parent": "3u833xsUX3TAnyHBcm_9wn"
     },
     {
       "id": "3u833xsUX3TAnyHBcm_9wo",
       "name": "16",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlS9",
       "name": "Maniglia a L:Maniglia a L:299714",
       "type": "IfcBuildingElementProxy",
-      "parent": "3u833xsUX3TAnyHBcm_9wo",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "3u833xsUX3TAnyHBcm_9wo"
     },
     {
       "id": "3u833xsUX3TAnyHBcm_9wt",
       "name": "17",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3u833xsUX3TAnyHBcm_9wu",
       "name": "18",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlTn",
       "name": "Maniglia a L:Maniglia a L:299706",
       "type": "IfcBuildingElementProxy",
-      "parent": "3u833xsUX3TAnyHBcm_9wu",
-      "material": "#163123=IFCMATERIALLIST((#20745,#20745));"
+      "parent": "3u833xsUX3TAnyHBcm_9wu"
     },
     {
       "id": "3u833xsUX3TAnyHBcm_9wz",
       "name": "100",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "34PM0e$xX6IfwokJ6qxQOV",
       "name": "Lavandino bagno - Con colonna:Lavandino bagno - Con colonna:172776",
       "type": "IfcFlowTerminal",
-      "parent": "3u833xsUX3TAnyHBcm_9wz",
-      "material": "#149266=IFCMATERIALLIST((#148877,#148882));"
+      "parent": "3u833xsUX3TAnyHBcm_9wz"
     },
     {
       "id": "3K4rea35r5Y8ZQAByhA41V",
       "name": "Maniglia a L:Maniglia a L:376682",
       "type": "IfcBuildingElementProxy",
-      "parent": "3u833xsUX3TAnyHBcm_9wz",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "3u833xsUX3TAnyHBcm_9wz"
     },
     {
       "id": "3u833xsUX3TAnyHBcm_9w_",
       "name": "101",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlSO",
       "name": "Maniglia a L:Maniglia a L:299731",
       "type": "IfcBuildingElementProxy",
-      "parent": "3u833xsUX3TAnyHBcm_9w_",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "3u833xsUX3TAnyHBcm_9w_"
     },
     {
       "id": "3u833xsUX3TAnyHBcm_9v3",
       "name": "102",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStBj",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStBj"
     },
     {
       "id": "34PM0e$xX6IfwokJ6qxQSL",
       "name": "Seduta WC_2 con vaschetta di sciacquone - A muro:640x360 mm:173026",
       "type": "IfcFlowTerminal",
-      "parent": "3u833xsUX3TAnyHBcm_9v3",
-      "material": "#152676=IFCMATERIALLIST((#16809,#16809,#16809,#16809,#16809,#16809,#16809,#16809,#16809));"
+      "parent": "3u833xsUX3TAnyHBcm_9v3"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlSV",
       "name": "Maniglia a L:Maniglia a L:299732",
       "type": "IfcBuildingElementProxy",
-      "parent": "3u833xsUX3TAnyHBcm_9v3",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "3u833xsUX3TAnyHBcm_9v3"
     },
     {
       "id": "0jINPV5jb1ngSkQYEaStVW",
       "name": "2 - Piano Primo",
       "type": "IfcBuildingStorey",
-      "parent": "0jINPV5jb1ngSkQYDRZ8wv",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYDRZ8wv"
     },
     {
       "id": "0J6aNrtYL3kR_yEoNmbhRU",
       "name": "Pavimento:Latero Cementizio - 30 cm:108088",
       "type": "IfcSlab",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#18587=IFCMATERIALLAYERSETUSAGE(#18455,.AXIS3.,.POSITIVE.,0.);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "0J6aNrtYL3kR_yEoNmbhlf",
       "name": "Muro di base:Muratura esterna - 30 cm:109327",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#18673=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "2KcKX8fjnCyPiIm$KgvsR9",
       "name": "Muro di base:Muratura portante - 30 cm:111523",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#18735=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1KN9fZskv7yOikqS89Qh_Y",
       "name": "Muro di base:Tramezza - 15 cm:112161",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#18856=IFCMATERIALLAYERSETUSAGE(#9017,.AXIS2.,.NEGATIVE.,0.07499999999999998);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1KN9fZskv7yOikqS89Qh$9",
       "name": "Muro di base:Tramezza - 15 cm:112202",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#18915=IFCMATERIALLAYERSETUSAGE(#9017,.AXIS2.,.NEGATIVE.,0.07499999999999998);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1KN9fZskv7yOikqS89QhyF",
       "name": "Muro di base:Muratura portante - 30 cm:112268",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#18974=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3X4hHwScHFKR0wSQ_vMs8g",
       "name": "Muro di base:Tramezza - 15 cm:113083",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#19033=IFCMATERIALLAYERSETUSAGE(#9017,.AXIS2.,.NEGATIVE.,0.07499999999999998);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3X4hHwScHFKR0wSQ_vMs7t",
       "name": "Muro di base:Muratura portante - 30 cm:113254",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#19092=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3X4hHwScHFKR0wSQ_vMsPD",
       "name": "Muro di base:Tramezza - 15 cm:114140",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#19151=IFCMATERIALLAYERSETUSAGE(#9017,.AXIS2.,.NEGATIVE.,0.07499999999999998);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3X4hHwScHFKR0wSQ_vMsMn",
       "name": "Porta - 1 Anta:80x210 cm:114208",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#19220=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1zdUZCJ1PBX96mVN0Oi6ZI",
       "name": "Porta - 1 Anta:90x210 cm:114334",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#19260=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1zdUZCJ1PBX96mVN0Oi6Ym",
       "name": "Porta - 1 Anta:90x210 cm:114428",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#19327=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1zdUZCJ1PBX96mVN0Oi6aJ",
       "name": "Porta - 1 Anta:90x210 cm:114527",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#19368=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1zdUZCJ1PBX96mVN0Oi6dz",
       "name": "Porta - 1 Anta:80x210 cm:114609",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#19406=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3NXjtaugjAyB1Ucpg4pWTo",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:129991",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3NXjtaugjAyB1Ucpg4pWTz",
       "name": "Pannello sistema:Vetro Blu:129992",
       "type": "IfcPlate",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2Lckb75fP19O9uSHDV3GDQ",
       "name": "Pannello sistema:Vetro Blu:143231",
       "type": "IfcPlate",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "3NXjtaugjAyB1Ucpg4pWTu",
       "name": "Pannello sistema:Vetro Blu:129997",
       "type": "IfcPlate",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2Lckb75fP19O9uSHDV3GDc",
       "name": "Pannello sistema:Vetro Blu:143171",
       "type": "IfcPlate",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "3NXjtaugjAyB1Ucpg4pW4o",
       "name": "Pannello sistema:Vetro Blu:130439",
       "type": "IfcPlate",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2Lckb75fP19O9uSHDV3G8S",
       "name": "Pannello sistema:Vetro Blu:142905",
       "type": "IfcPlate",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "3NXjtaugjAyB1Ucpg4pW4$",
       "name": "Pannello sistema:Vetro Blu:130442",
       "type": "IfcPlate",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2Lckb75fP19O9uSHDV3G8n",
       "name": "Pannello sistema:Vetro Blu:142868",
       "type": "IfcPlate",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmkV",
       "name": "Montante rettangolare:Montante rettangolare:143271",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmkG",
       "name": "Montante rettangolare:Montante rettangolare:143272",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmk4",
       "name": "Montante rettangolare:Montante rettangolare:143292",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmk5",
       "name": "Montante rettangolare:Montante rettangolare:143293",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmlu",
       "name": "Montante rettangolare:Montante rettangolare:143296",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmlv",
       "name": "Montante rettangolare:Montante rettangolare:143297",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmlw",
       "name": "Montante rettangolare:Montante rettangolare:143298",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmlx",
       "name": "Montante rettangolare:Montante rettangolare:143299",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmly",
       "name": "Montante rettangolare:Montante rettangolare:143300",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmlz",
       "name": "Montante rettangolare:Montante rettangolare:143301",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZml_",
       "name": "Montante rettangolare:Montante rettangolare:143302",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZml$",
       "name": "Montante rettangolare:Montante rettangolare:143303",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmlr",
       "name": "Montante rettangolare:Montante rettangolare:143309",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmls",
       "name": "Montante rettangolare:Montante rettangolare:143310",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmlO",
       "name": "Montante rettangolare:Montante rettangolare:143328",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZmlP",
       "name": "Montante rettangolare:Montante rettangolare:143329",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnII",
       "name": "Montante rettangolare:Montante rettangolare:143530",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnIJ",
       "name": "Montante rettangolare:Montante rettangolare:143531",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnIK",
       "name": "Montante rettangolare:Montante rettangolare:143532",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnIL",
       "name": "Montante rettangolare:Montante rettangolare:143533",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnIM",
       "name": "Montante rettangolare:Montante rettangolare:143534",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnIN",
       "name": "Montante rettangolare:Montante rettangolare:143535",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnI8",
       "name": "Montante rettangolare:Montante rettangolare:143536",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnI9",
       "name": "Montante rettangolare:Montante rettangolare:143537",
       "type": "IfcMember",
-      "parent": "3NXjtaugjAyB1Ucpg4pWTo",
-      "material": null
+      "parent": "3NXjtaugjAyB1Ucpg4pWTo"
     },
     {
       "id": "0o_Tg49$nCLxTVaGg3pSMW",
       "name": "Pavimento:Tettoia metallica 10 cm:134399",
       "type": "IfcSlab",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#23214=IFCMATERIALLAYERSETUSAGE(#23213,.AXIS3.,.POSITIVE.,0.);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "2Lckb75fP19O9uSHDV3GlM",
       "name": "Scala:Cls - Alzata Max 16 cm - Pedata 29 cm:141299",
       "type": "IfcStair",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "2Lckb75fP19O9uSHTV3GlM",
       "name": "Scala:Cls - Alzata Max 16 cm - Pedata 29 cm:141299:1",
       "type": "IfcStairFlight",
-      "parent": "2Lckb75fP19O9uSHDV3GlM",
-      "material": null
+      "parent": "2Lckb75fP19O9uSHDV3GlM"
     },
     {
       "id": "2Lckb75fP19O9uSHPV3GlM",
       "name": "Scala:Cls - Alzata Max 16 cm - Pedata 29 cm:141299:2",
       "type": "IfcStairFlight",
-      "parent": "2Lckb75fP19O9uSHDV3GlM",
-      "material": null
+      "parent": "2Lckb75fP19O9uSHDV3GlM"
     },
     {
       "id": "2Lckb75fP19O9uSTfV3GlM",
       "name": "Scala:Cls - Alzata Max 16 cm - Pedata 29 cm:141299:1",
       "type": "IfcSlab",
-      "parent": "2Lckb75fP19O9uSHDV3GlM",
-      "material": null
+      "parent": "2Lckb75fP19O9uSHDV3GlM"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUn",
       "name": "Facciata continua:Pannelli Vetro Colorato - Divisione Verticale:144265",
       "type": "IfcCurtainWall",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": ""
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUo",
       "name": "Pannello sistema:Vetro Blu:144266",
       "type": "IfcPlate",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUO",
       "name": "Pannello sistema:Vetro Blu:144288",
       "type": "IfcPlate",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUs",
       "name": "Pannello sistema:Vetro Blu:144270",
       "type": "IfcPlate",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUb",
       "name": "Pannello sistema:Vetro Blu:144285",
       "type": "IfcPlate",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUf",
       "name": "Pannello sistema:Vetro Blu:144273",
       "type": "IfcPlate",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUY",
       "name": "Pannello sistema:Vetro Blu:144282",
       "type": "IfcPlate",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUi",
       "name": "Pannello sistema:Vetro Blu:144276",
       "type": "IfcPlate",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUl",
       "name": "Pannello sistema:Vetro Blu:144279",
       "type": "IfcPlate",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUQ",
       "name": "Montante rettangolare:Montante rettangolare:144290",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUR",
       "name": "Montante rettangolare:Montante rettangolare:144291",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUS",
       "name": "Montante rettangolare:Montante rettangolare:144292",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUT",
       "name": "Montante rettangolare:Montante rettangolare:144293",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUU",
       "name": "Montante rettangolare:Montante rettangolare:144294",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUV",
       "name": "Montante rettangolare:Montante rettangolare:144295",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUG",
       "name": "Montante rettangolare:Montante rettangolare:144296",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUH",
       "name": "Montante rettangolare:Montante rettangolare:144297",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUI",
       "name": "Montante rettangolare:Montante rettangolare:144298",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUJ",
       "name": "Montante rettangolare:Montante rettangolare:144299",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUK",
       "name": "Montante rettangolare:Montante rettangolare:144300",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUL",
       "name": "Montante rettangolare:Montante rettangolare:144301",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUM",
       "name": "Montante rettangolare:Montante rettangolare:144302",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUN",
       "name": "Montante rettangolare:Montante rettangolare:144303",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnU8",
       "name": "Montante rettangolare:Montante rettangolare:144304",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnU9",
       "name": "Montante rettangolare:Montante rettangolare:144305",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUA",
       "name": "Montante rettangolare:Montante rettangolare:144306",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUB",
       "name": "Montante rettangolare:Montante rettangolare:144307",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUC",
       "name": "Montante rettangolare:Montante rettangolare:144308",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUD",
       "name": "Montante rettangolare:Montante rettangolare:144309",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUE",
       "name": "Montante rettangolare:Montante rettangolare:144310",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnUF",
       "name": "Montante rettangolare:Montante rettangolare:144311",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnU0",
       "name": "Montante rettangolare:Montante rettangolare:144312",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZnU1",
       "name": "Montante rettangolare:Montante rettangolare:144313",
       "type": "IfcMember",
-      "parent": "2$DUuZgmzCq9QnXaVJZnUn",
-      "material": null
+      "parent": "2$DUuZgmzCq9QnXaVJZnUn"
     },
     {
       "id": "1LzvNqMknFIxalWPWp4flW",
       "name": "Muro di base:Tramezza - 10 cm:156303",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#136907=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1LzvNqMknFIxalWPWp4fge",
       "name": "Porta - 1 Anta:70x210 cm:156615",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#137035=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1LzvNqMknFIxalWPWp4frH",
       "name": "Muro di base:Tramezza - 10 cm:156734",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#137114=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1LzvNqMknFIxalWPWp4dLk",
       "name": "Porta - 1 Anta:60x210 cm:166913",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#137183=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1LzvNqMknFIxalWPWp4dKi",
       "name": "Porta - 1 Anta:60x210 cm:166979",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#137272=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "379d5Seeb4pekpLzwtDqsd",
       "name": "Muro di base:Tramezza - 10 cm:169322",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#139622=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3h_iTOk85Eu9bSOAi4EnKq",
       "name": "Finestra Una Anta:60 x 120:169411",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#141115=IFCMATERIALLIST((#20740,#20745,#20745,#141102,#141102,#20750,#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3h_iTOk85Eu9bSOAi4EnKQ",
       "name": "Finestra Una Anta:60 x 120:169453",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#141186=IFCMATERIALLIST((#20740,#20745,#141102,#20750,#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3QTnlkY0P3uw2dAvv9lCZX",
       "name": "Muro di base:Muratura esterna - 30 cm:176818",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#152903=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3QTnlkY0P3uw2dAvv9lCdY",
       "name": "Muro di base:Muratura esterna - 30 cm:177073",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#153036=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3QTnlkY0P3uw2dAvv9lCs7",
       "name": "Muro di base:Muratura esterna - 30 cm:178132",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#153154=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3QTnlkY0P3uw2dAvv9lC09",
       "name": "Muro di base:Muratura esterna - 30 cm:178778",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#153291=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3QTnlkY0P3uw2dAvv9lCSY",
       "name": "Muro di base:Muratura esterna - 30 cm:179569",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#153514=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "2DALzbWu90NPD4uMZRzQ1q",
       "name": "Muro di base:Muratura esterna - 30 cm:180915",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#153646=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "2DALzbWu90NPD4uMZRzQ6P",
       "name": "Muro di base:Muratura esterna - 30 cm:181086",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#153764=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "2DALzbWu90NPD4uMZRzQYQ",
       "name": "Muro di base:Tramezza - 15 cm:182877",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#153889=IFCMATERIALLAYERSETUSAGE(#9017,.AXIS2.,.NEGATIVE.,0.07499999999999998);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "2DALzbWu90NPD4uMZRzQy3",
       "name": "Muro di base:Muratura esterna - 30 cm:183748",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#154066=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3H7qOEgrP3s9GlMdANjM3g",
       "name": "Muro di base:Tramezza - 10 cm:185626",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#154243=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnN7u",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187653",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#154729=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnN7x",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187654",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#154770=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnN7w",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187655",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#154811=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnN7r",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187656",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#154852=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnN7q",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187657",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#154893=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1Ookczxif9fALilhfLnJLx",
       "name": "Muro di base:Muratura esterna - 30 cm:189143",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#155363=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "2iD2J9h1n0sAi1ZsqSG9pL",
       "name": "Muro di base:Muratura esterna - 30 cm:266485",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#155600=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "30mQ3oTp9CoRtLKRMjcSq3",
       "name": "Muro di base:Tramezza - 15 cm:268421",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#156229=IFCMATERIALLAYERSETUSAGE(#9017,.AXIS2.,.NEGATIVE.,0.07499999999999998);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDR2",
       "name": "Maniglia Esterna:Maniglia Pomello:290850",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDR4",
       "name": "Maniglia Esterna:Maniglia Pomello:290852",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDR6",
       "name": "Maniglia Esterna:Maniglia Pomello:290854",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDR7",
       "name": "Maniglia Esterna:Maniglia Pomello:290855",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDR8",
       "name": "Maniglia Esterna:Maniglia Pomello:290856",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDR9",
       "name": "Maniglia Esterna:Maniglia Pomello:290857",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRB",
       "name": "Maniglia Esterna:Maniglia Pomello:290859",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRD",
       "name": "Maniglia Esterna:Maniglia Pomello:290861",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "35OW62orjAJuEejMvX5EoM",
       "name": "Cassonetto e Davanzale (3):L 1300 H 1300:322361",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#166807=IFCMATERIALLIST((#166779,#166784,#166779,#166779,#166779,#166779,#166784,#166784,#166784,#166784,#166784,#166784,#166784,#166779,#166779,#166779,#166779,#166784,#166784,#166784,#166784,#166784,#2222,#2222,#3715,#166789,#166789,#3715,#166789,#166789,#3715,#3715,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "35OW62orjAJuEejMvX5EoL",
       "name": "Cassonetto e Davanzale (3):L 1300 H 1300:322362",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#166889=IFCMATERIALLIST((#166779,#166784,#2222,#3715,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "0yp4bQgIb0RxxnImDlKDwh",
       "name": "Cassonetto e Davanzale (3):L 2300 H 1000:322724",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#169677=IFCMATERIALLIST((#166779,#166784,#166784,#166784,#166784,#166784,#166784,#166784,#166784,#166779,#166784,#166784,#166784,#166779,#166779,#166779,#166779,#166784,#166784,#166784,#166784,#166784,#166784,#166784,#166779,#166779,#166779,#166779,#166784,#166784,#166784,#166784,#166784,#2222,#2222,#169664,#166789,#166789,#169664,#166789,#166789,#169664,#169664,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "0yp4bQgIb0RxxnImDlKDxj",
       "name": "Cassonetto e Davanzale (3):L 2300 H 1000:322786",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#169753=IFCMATERIALLIST((#166779,#166784,#2222,#169664,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "0dkZsfFon0rfp8D_SDgW0J",
       "name": "Cassonetto e Davanzale (3):L 2300 H 1000:324193",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#169791=IFCMATERIALLIST((#166779,#166784,#2222,#169664,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "2mSsGweN19CQ_6fbEBHXJ7",
       "name": "Cassonetto e Davanzale (3):L 2300 H 1000:324299",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#169830=IFCMATERIALLIST((#166779,#166784,#2222,#169664,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "0uJOs20SL1ng6FGfUiimBJ",
       "name": "Muro di base:Muratura esterna - 30 cm:355352",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#173324=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "0yd4FHp5D6iAG2Q95pYk5d",
       "name": "Muro di base:Muratura esterna - 30 cm:370849",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#173996=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3BVdfSMVT9nQPxdEs7ai_F",
       "name": "Muro di base:Muratura portante - 30 cm:371420",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": "#174054=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV3m",
       "name": "22",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "2$DUuZgmzCq9QnXaVJZqLo",
       "name": "Tavolo riunioni con sedie:2400 x 1200 mm:155978",
       "type": "IfcFurnishingElement",
-      "parent": "10v8WmLT5EvBb1N0aaIV3m",
-      "material": "#136843=IFCMATERIALLIST((#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#136827,#16809));"
+      "parent": "10v8WmLT5EvBb1N0aaIV3m"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlS0",
       "name": "Maniglia a L:Maniglia a L:299723",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV3m",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV3m"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV3y",
       "name": "23",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlS1",
       "name": "Maniglia a L:Maniglia a L:299722",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV3y",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV3y"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV3v",
       "name": "24",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlS2",
       "name": "Maniglia a L:Maniglia a L:299721",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV3v",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV3v"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV3c",
       "name": "21",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlSC",
       "name": "Maniglia a L:Maniglia a L:299719",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV3c",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV3c"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV3Z",
       "name": "26",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3h_iTOk85Eu9bSOAi4En$X",
       "name": "Lavandino bagno - Con colonna:Lavandino bagno - Con colonna:171798",
       "type": "IfcFlowTerminal",
-      "parent": "10v8WmLT5EvBb1N0aaIV3Z",
-      "material": "#148898=IFCMATERIALLIST((#148877,#148877,#148877,#148882,#148882,#148882,#148882,#148882));"
+      "parent": "10v8WmLT5EvBb1N0aaIV3Z"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlSE",
       "name": "Maniglia a L:Maniglia a L:299717",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV3Z",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV3Z"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV3W",
       "name": "27",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlS5",
       "name": "Maniglia a L:Maniglia a L:299726",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV3W",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV3W"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV3j",
       "name": "28",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "1LzvNqMknFIxalWPWp4ctT",
       "name": "Piatto doccia:Piatto doccia:169138",
       "type": "IfcFlowTerminal",
-      "parent": "10v8WmLT5EvBb1N0aaIV3j",
-      "material": "#139554=IFCMATERIALLIST((#139538,#139538));"
+      "parent": "10v8WmLT5EvBb1N0aaIV3j"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlSR",
       "name": "Maniglia a L:Maniglia a L:299728",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV3j",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV3j"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV3g",
       "name": "25",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlS7",
       "name": "Maniglia a L:Maniglia a L:299724",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV3g",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV3g"
     },
     {
       "id": "1YH7ILTrb5JRt_$zIArv8X",
       "name": "29",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaStVW",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaStVW"
     },
     {
       "id": "0jINPV5jb1ngSkQYEaSZ7i",
       "name": "3 - Piano Secondo",
       "type": "IfcBuildingStorey",
-      "parent": "0jINPV5jb1ngSkQYDRZ8wv",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYDRZ8wv"
     },
     {
       "id": "1KN9fZskv7yOikqS89Qhoz",
       "name": "Muro di base:Tramezza - 15 cm:111934",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#18794=IFCMATERIALLAYERSETUSAGE(#9017,.AXIS2.,.NEGATIVE.,0.07499999999999998);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1zdUZCJ1PBX96mVN0Oi1Nn",
       "name": "Muro di base:Muratura esterna - 30 cm:115645",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#19463=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "39umKkQG9A$8y_OPai4B4M",
       "name": "Finestra Una Anta:100 x 100:123699",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20763=IFCMATERIALLIST((#20740,#20745,#20745,#3715,#3715,#20750,#3715,#3715));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "39umKkQG9A$8y_OPai4BOM",
       "name": "Finestra Una Anta:100 x 100:123955",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20847=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "39umKkQG9A$8y_OPai4BQb",
       "name": "Finestra Una Anta:100 x 100:124032",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20888=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "39umKkQG9A$8y_OPai4BQ0",
       "name": "Finestra Una Anta:100 x 100:124069",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20929=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "39umKkQG9A$8y_OPai4BSu",
       "name": "Finestra Una Anta:100 x 100:124189",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20970=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "39umKkQG9A$8y_OPai4BTF",
       "name": "Finestra Una Anta:100 x 100:124266",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#21011=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1XurSw6kn9sfS9Z$aORkem",
       "name": "Finestra Una Anta:100 x 100:125080",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#21052=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1XurSw6kn9sfS9Z$aORken",
       "name": "Finestra Una Anta:100 x 100:125081",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#21094=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1XurSw6kn9sfS9Z$aORkeo",
       "name": "Finestra Una Anta:100 x 100:125082",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#21135=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1XurSw6kn9sfS9Z$aORkep",
       "name": "Finestra Una Anta:100 x 100:125083",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#21176=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1XurSw6kn9sfS9Z$aORkfL",
       "name": "Finestra Una Anta:100 x 100:125181",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#21217=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1XurSw6kn9sfS9Z$aORkfM",
       "name": "Finestra Una Anta:100 x 100:125182",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#21259=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1XurSw6kn9sfS9Z$aORkfN",
       "name": "Finestra Una Anta:100 x 100:125183",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#21300=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3NXjtaugjAyB1Ucpg4pWHy",
       "name": "Finestra Una Anta:100 x 100:129225",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#21341=IFCMATERIALLIST((#20740,#20745,#3715,#20750));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2Lckb75fP19O9uSHDV3GhU",
       "name": "Pavimento:Latero Cementizio - 30 cm:141051",
       "type": "IfcSlab",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#23645=IFCMATERIALLAYERSETUSAGE(#18455,.AXIS3.,.POSITIVE.,0.);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1LzvNqMknFIxalWPWp4ffx",
       "name": "Muro di base:Tramezza - 10 cm:156436",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#136966=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3h_iTOk85Eu9bSOAi4EnQk",
       "name": "Finestra Una Anta:60 x 120:169561",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#141227=IFCMATERIALLIST((#20740,#20745,#141102,#20750,#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3h_iTOk85Eu9bSOAi4EnQj",
       "name": "Finestra Una Anta:60 x 120:169562",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#141269=IFCMATERIALLIST((#20740,#20745,#141102,#20750,#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "34PM0e$xX6IfwokJ6qxQH5",
       "name": "Porta - 1 Anta:60x210 cm:172210",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#148953=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "34PM0e$xX6IfwokJ6qxQNf",
       "name": "Porta - 1 Anta:60x210 cm:172318",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#148992=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3QTnlkY0P3uw2dAvv9lCat",
       "name": "Muro di base:Muratura esterna - 30 cm:176996",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#152977=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3QTnlkY0P3uw2dAvv9lCvQ",
       "name": "Muro di base:Muratura esterna - 30 cm:177161",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#153095=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3QTnlkY0P3uw2dAvv9lC83",
       "name": "Muro di base:Muratura esterna - 30 cm:178256",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#153213=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3QTnlkY0P3uw2dAvv9lC2c",
       "name": "Muro di base:Muratura esterna - 30 cm:178933",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#153383=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3QTnlkY0P3uw2dAvv9lCPJ",
       "name": "Muro di base:Muratura esterna - 30 cm:179200",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#153455=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2DALzbWu90NPD4uMZRzQ0c",
       "name": "Muro di base:Muratura esterna - 30 cm:180961",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#153705=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2DALzbWu90NPD4uMZRzQiK",
       "name": "Muro di base:Muratura esterna - 30 cm:182739",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#153823=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2DALzbWu90NPD4uMZRzQaD",
       "name": "Muro di base:Tramezza - 15 cm:183242",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#153948=IFCMATERIALLAYERSETUSAGE(#9017,.AXIS2.,.NEGATIVE.,0.07499999999999998);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2DALzbWu90NPD4uMZRzQv4",
       "name": "Muro di base:Muratura portante - 30 cm:183427",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#154007=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3GIn12hdrFSQ9H4SA6Zcys",
       "name": "Muro di base:Tramezza - 10 cm:185297",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#154184=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3H7qOEgrP3s9GlMdANjM1y",
       "name": "Muro di base:Tramezza - 10 cm:185740",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#154302=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNBf",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187924",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#154934=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNBe",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187925",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#154975=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNBh",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187926",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#155016=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNBg",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187927",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#155057=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNBb",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187928",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#155098=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2iD2J9h1n0sAi1ZsqSG9qS",
       "name": "Muro di base:Muratura esterna - 30 cm:266556",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#155659=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2iD2J9h1n0sAi1ZsqSG9xw",
       "name": "Muro di base:Muratura portante - 30 cm:266970",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#155718=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2iD2J9h1n0sAi1ZsqSG9xx",
       "name": "Porta - 1 Anta:90x210 cm:266971",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#155759=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2iD2J9h1n0sAi1ZsqSG9xy",
       "name": "Porta - 1 Anta:90x210 cm:266972",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#155798=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2iD2J9h1n0sAi1ZsqSG9xz",
       "name": "Porta - 1 Anta:90x210 cm:266973",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#155836=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2iD2J9h1n0sAi1ZsqSG9Yw",
       "name": "Muro di base:Tramezza - 15 cm:267418",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#155892=IFCMATERIALLAYERSETUSAGE(#9017,.AXIS2.,.NEGATIVE.,0.07499999999999998);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2iD2J9h1n0sAi1ZsqSG9Zl",
       "name": "Muro di base:Tramezza - 15 cm:267471",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#155951=IFCMATERIALLAYERSETUSAGE(#9017,.AXIS2.,.NEGATIVE.,0.07499999999999998);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2iD2J9h1n0sAi1ZsqSG9aY",
       "name": "Muro di base:Muratura portante - 30 cm:267522",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#156010=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.NEGATIVE.,0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2iD2J9h1n0sAi1ZsqSG9fZ",
       "name": "Muro di base:Tramezza - 15 cm:267843",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#156069=IFCMATERIALLAYERSETUSAGE(#9017,.AXIS2.,.NEGATIVE.,0.07499999999999998);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "2iD2J9h1n0sAi1ZsqSG9fa",
       "name": "Porta - 1 Anta:80x210 cm:267844",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#156110=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRE",
       "name": "Maniglia Esterna:Maniglia Pomello:290862",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRF",
       "name": "Maniglia Esterna:Maniglia Pomello:290863",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRI",
       "name": "Maniglia Esterna:Maniglia Pomello:290866",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRJ",
       "name": "Maniglia Esterna:Maniglia Pomello:290867",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRK",
       "name": "Maniglia Esterna:Maniglia Pomello:290868",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3ut8Zn2inD3u72D0cZhDRL",
       "name": "Maniglia Esterna:Maniglia Pomello:290869",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "35OW62orjAJuEejMvX5Epl",
       "name": "Cassonetto e Davanzale (3):L 1300 H 1300:322368",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#166927=IFCMATERIALLIST((#166779,#166784,#2222,#3715,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "35OW62orjAJuEejMvX5Epk",
       "name": "Cassonetto e Davanzale (3):L 1300 H 1300:322369",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#166965=IFCMATERIALLIST((#166779,#166784,#2222,#3715,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3SESXOWlT2eACozsMll9BS",
       "name": "Cassonetto e Davanzale (3):L 2300 H 1000:324383",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#172533=IFCMATERIALLIST((#166779,#166784,#166784,#166784,#166784,#166784,#166784,#166784,#166784,#166779,#166784,#166784,#166784,#166779,#166779,#166779,#166779,#166784,#166784,#166784,#166784,#166784,#166784,#166784,#166779,#166779,#166779,#166779,#166784,#166784,#166784,#166784,#166784,#2222,#2222,#169664,#166789,#166789,#169664,#166789,#166789,#169664,#169664,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3hHrGMpRzEwBQg66byF4ku",
       "name": "Cassonetto e Davanzale (3):L 2300 H 1000:326200",
       "type": "IfcWindow",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#172573=IFCMATERIALLIST((#166779,#166784,#2222,#169664,#166789,#166794));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1npTuPP0fERuEItQgeGbz0",
       "name": "Porta - 1 Anta:70x210 cm:326547",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#172640=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1npTuPP0fERuEItQgeGbz5",
       "name": "Maniglia Esterna:Maniglia Pomello:326550",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "0ajLA4kOD2hw1VNgAou6Ig",
       "name": "Porta - 1 Anta:80x210 cm:326981",
       "type": "IfcDoor",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#172739=IFCMATERIALLIST((#9108,#9113));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "0ajLA4kOD2hw1VNgAou6Id",
       "name": "Maniglia Esterna:Maniglia Pomello:326984",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "0uJOs20SL1ng6FGfUiimBG",
       "name": "Muro di base:Muratura esterna - 30 cm:355355",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#173382=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1SonAwgJT4R9i_D5FpSUnm",
       "name": "Muro di base:Muratura esterna - 30 cm:371782",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#174112=IFCMATERIALLAYERSETUSAGE(#8162,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "1xa0sY1hr8D8ycZbJDYRXa",
       "name": "Muro di base:Muratura portante - 30 cm:372124",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": "#174170=IFCMATERIALLAYERSETUSAGE(#1998,.AXIS2.,.POSITIVE.,-0.15000000000000002);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV2V",
       "name": "32",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlSS",
       "name": "Maniglia a L:Maniglia a L:299735",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV2V",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV2V"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV2S",
       "name": "33",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlST",
       "name": "Maniglia a L:Maniglia a L:299734",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV2S",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV2S"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV2P",
       "name": "34",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlSU",
       "name": "Maniglia a L:Maniglia a L:299733",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV2P",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV2P"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV26",
       "name": "31",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "0ajLA4kOD2hw1VNgAou6Ie",
       "name": "Maniglia a L:Maniglia a L:326983",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV26",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV26"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV23",
       "name": "35",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlSJ",
       "name": "Maniglia a L:Maniglia a L:299736",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV23",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV23"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV20",
       "name": "36",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "34PM0e$xX6IfwokJ6qxQQc",
       "name": "Lavandino bagno - Con colonna:Lavandino bagno - Con colonna:172625",
       "type": "IfcFlowTerminal",
-      "parent": "10v8WmLT5EvBb1N0aaIV20",
-      "material": "#149033=IFCMATERIALLIST((#148877,#148882));"
+      "parent": "10v8WmLT5EvBb1N0aaIV20"
     },
     {
       "id": "1npTuPP0fERuEItQgeGbz6",
       "name": "Maniglia a L:Maniglia a L:326549",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV20",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV20"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV2D",
       "name": "37",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlSQ",
       "name": "Maniglia a L:Maniglia a L:299729",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV2D",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV2D"
     },
     {
       "id": "10v8WmLT5EvBb1N0aaIV2A",
       "name": "38",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "3UrrVw2Cf0JxjzZkZTzlSP",
       "name": "Maniglia a L:Maniglia a L:299730",
       "type": "IfcBuildingElementProxy",
-      "parent": "10v8WmLT5EvBb1N0aaIV2A",
-      "material": "#20745=IFCMATERIAL('Infisso - Maniglia');"
+      "parent": "10v8WmLT5EvBb1N0aaIV2A"
     },
     {
       "id": "14yGdzyB16YPVBVroj0kD1",
       "name": "39",
       "type": "IfcSpace",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7i",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYEaSZ7i"
     },
     {
       "id": "0jINPV5jb1ngSkQYEaSZ7s",
       "name": "4 - Tetto",
       "type": "IfcBuildingStorey",
-      "parent": "0jINPV5jb1ngSkQYDRZ8wv",
-      "material": null
+      "parent": "0jINPV5jb1ngSkQYDRZ8wv"
     },
     {
       "id": "1zdUZCJ1PBX96mVN0Oi18O",
       "name": "Tetto di base:Latero Cementizio - 27 cm:115796",
       "type": "IfcRoof",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7s",
-      "material": "#19539=IFCMATERIALLAYERSET((#19535,#19536,#19537,#19538),'Tetto di base:Latero Cementizio - 27 cm');"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7s"
     },
     {
       "id": "1zdUZCJ1PBX96mVN8Oi18O",
       "name": "Tetto di base:Latero Cementizio - 27 cm:115796",
       "type": "IfcSlab",
-      "parent": "1zdUZCJ1PBX96mVN0Oi18O",
-      "material": null
+      "parent": "1zdUZCJ1PBX96mVN0Oi18O"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNB8",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187957",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7s",
-      "material": "#155139=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7s"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNBB",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187958",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7s",
-      "material": "#155181=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7s"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNBA",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187959",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7s",
-      "material": "#155222=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7s"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNB5",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187960",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7s",
-      "material": "#155263=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7s"
     },
     {
       "id": "0b_FloaVzDDR9xY56WnNB4",
       "name": "Ponteggio:2500 x 2250 x 2500mm:187961",
       "type": "IfcBuildingElementProxy",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7s",
-      "material": "#155304=IFCMATERIALLIST((#154487,#154492));"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7s"
     },
     {
       "id": "1iBpD9bVfAXvshNYk$tVDi",
       "name": "Muro di base:Tramezza - 10 cm:356474",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7s",
-      "material": "#173440=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7s"
     },
     {
       "id": "1iBpD9bVfAXvshNYk$tVA7",
       "name": "Muro di base:Tramezza - 10 cm:356753",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7s",
-      "material": "#173500=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7s"
     },
     {
       "id": "1iBpD9bVfAXvshNYk$tVBe",
       "name": "Muro di base:Tramezza - 10 cm:356862",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7s",
-      "material": "#173559=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7s"
     },
     {
       "id": "1iBpD9bVfAXvshNYk$tV3U",
       "name": "Muro di base:Tramezza - 10 cm:357320",
       "type": "IfcWallStandardCase",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7s",
-      "material": "#173618=IFCMATERIALLAYERSETUSAGE(#8373,.AXIS2.,.NEGATIVE.,0.050000000000000024);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7s"
     },
     {
       "id": "1iBpD9bVfAXvshNYk$tVSu",
       "name": "Pavimento:Tettoia metallica 10 cm:357422",
       "type": "IfcSlab",
-      "parent": "0jINPV5jb1ngSkQYEaSZ7s",
-      "material": "#173665=IFCMATERIALLAYERSETUSAGE(#23213,.AXIS3.,.POSITIVE.,0.);"
+      "parent": "0jINPV5jb1ngSkQYEaSZ7s"
     }
   ]
 }
