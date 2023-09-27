@@ -13,6 +13,14 @@
     {
       "id": "DigiCorp_2023",
       "name": "DigiCorp_2023"
+    },
+    {
+      "id": "DIGICORP_01_CARPENTERIA",
+      "name": "DIGICORP 01 CARPENTERIA"
+    },
+    {
+      "id": "DIGICORP_01_CARPENTERIA_2",
+      "name": "DIGICORP 01 CARPENTERIA Conversione 2step"
     }
   ],
   "viewerConfigs": {
